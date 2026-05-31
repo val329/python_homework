@@ -1,0 +1,16 @@
+1. Which sections of the website are restricted for crawling?
+
+Disallow: /w/
+Disallow: /api/
+Disallow: /trap/
+Disallow: /wiki/Special:
+Disallow: /wiki/Spezial:
+Disallow: /wiki/Spesial:
+Disallow: /wiki/Special%3A
+Disallow: /wiki/Spezial%3A
+Disallow: /wiki/Spesial%3A
+
+2. Are there specific rules for certain user agents?
+if user agent name is specified, the specific rules for that agent follow. Disallow: / means everything is not allowed 
+for that user, Disallow: means everything is allowed, Disallow: /api/ means api services are not allowed for that user. 
+* for all users, / for all services

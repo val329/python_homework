@@ -1,0 +1,3 @@
+Task 2 was confusing and took the longest trying to find the exact element with a class or id that holds the data I need
+Task 5, not much information given, had to look up robots and ask ai bots for help
+Task 6 was challenging without going through xpath tutorials, solved with the help of ai 
