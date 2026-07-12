@@ -7,3 +7,6 @@ __pycache__/
 .vscode
 CACHEDIR.TAG
 .venv/
+demo/demo screen recording 420p.mov
+.gitignore
+demo/demo screen recording.mov
